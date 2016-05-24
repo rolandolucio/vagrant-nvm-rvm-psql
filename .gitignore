@@ -6,3 +6,5 @@
 *.cab
 install.log
 .DS_Store
+sync/*
+!sync/README.md
