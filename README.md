@@ -1,5 +1,6 @@
 # vagrant-nvm-rvm-psql
 Vagrant box with:
+* ubuntu/trusty64 (ubuntu 14.04)
 * nvm for Node.js
 * rvm for ruby
 * PostgreSQL 9.4
@@ -12,10 +13,9 @@ https://www.vagrantup.com/downloads.html
 
 
 ## install
-clone repo
-cd folder
-
-vagrant up
+* git clone https://github.com/rolandolucio/vagrant-nvm-rvm-psql
+* cd vagrant-nvm-rvm-psql
+* vagrant up
 
 ## notes
 
