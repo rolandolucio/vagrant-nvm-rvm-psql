@@ -1,0 +1,8 @@
+.buildpath
+.project
+.settings
+.vagrant
+*.msi
+*.cab
+install.log
+.DS_Store
